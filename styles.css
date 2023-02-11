@@ -1,0 +1,40 @@
+.jumbotron {
+    background-image: url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=944&q=80");
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+  }
+          .jumbo-h1 {
+              text-align: center;
+              background-color: rgba(255, 255, 255, .75);
+              font-family: Arial, Helvetica, sans-serif;
+              font-weight: 700;
+              margin-top: 50px;
+              font-size: 72px;
+          }
+  
+          .jumbo-h3 {
+              text-align: center;
+              background-color: rgba(255, 255, 255, .75);
+              font-family: Arial, Helvetica, sans-serif;
+              font-weight: 700;
+              margin-top: 20px;
+              font-size: 36px;
+          }
+.row {
+    margin-right: 0px;
+    }
+.gray-headline-text {
+    color: grey;
+}
+
+.contact-form {
+    border-radius: 5px;
+    border: gainsboro solid 1px;
+}
+
+#contactSubmitBtn {
+    float: right;
+}
